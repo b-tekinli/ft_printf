@@ -64,3 +64,4 @@ int main()
 	int a = 12;
 	ft_printf("%d", 12);
 }
+*/
